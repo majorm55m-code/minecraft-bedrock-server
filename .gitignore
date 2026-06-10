@@ -1,0 +1,10 @@
+# Runtime data - do not commit
+worlds/
+backups/
+*.log
+logs/
+Debug_Log.txt
+valid_known_packs.json
+premium_cache/
+behavior_packs/
+resource_packs/
